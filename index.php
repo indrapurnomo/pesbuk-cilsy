@@ -14,8 +14,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Selamat datang di PesbukCilsy</h1>
-                        <p>Bergabunglah bersama orang lainnya...</p>
+                        <h1>Selamat datang di Pesbuk IP89</h1>
+                        <p>Bergabunglah bersama lainnya...</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
